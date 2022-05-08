@@ -1,35 +1,35 @@
 # UPDATE 1.0
-**-added bal 
+**-added bal**
 
-**-added work 
+**-added work**
 
 
 # UPDATE 1.1
 
-**-added beg 
+**-added beg** 
 
-**-added withdraw 
+**-added withdraw**
 
-**-added deposit
+**-added deposit**
 
-**-added send
+**-added send**
 
-**-added rob
+**-added rob**
 
 
 # UPDATE 1.2
 
-**-added slots 
+**-added slots** 
 
-**-added support
+**-added support**
 
-**-added eightball
+**-added eightball**
 
-**-added credit
+**-added credit**
 
-**-added slash commands
+**-added slash commands**
 
 
 # UPDATE 1.3 
 
-**-added devlog
+**-added devlog**
