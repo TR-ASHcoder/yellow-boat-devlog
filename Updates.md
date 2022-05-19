@@ -33,3 +33,5 @@
 # UPDATE 1.3 
 
 **-added devlog**
+
+**-added cursed command ( uses reddit api )**
