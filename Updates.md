@@ -35,3 +35,8 @@
 **-added devlog**
 
 **-added cursed command ( uses reddit api )**
+
+
+# UPDATE 1.4 
+
+**-changed website on the support command** 
