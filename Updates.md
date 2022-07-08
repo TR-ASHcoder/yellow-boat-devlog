@@ -40,3 +40,12 @@
 # UPDATE 1.4 
 
 **-changed website on the support command** 
+
+
+# UPDATE 1.5
+
+**-changed the cursed command to memes** 
+
+**-made memes command wayyy faster**
+
+**-turned memes command into a slash command** 
